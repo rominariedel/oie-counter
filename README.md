@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# OIE Counter
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The App contains two main components:
+
+- Resources: Lateral navigation that queries for the resources and renders them.
+- WordSearch: The content of the application that depends on a selected resource. It renders the matrix and the oies found.
 
 ## Available Scripts
 
